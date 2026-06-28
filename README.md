@@ -1,3 +1,4 @@
+<img width="295" height="331" alt="image" src="https://github.com/user-attachments/assets/13c10bc3-554a-431f-ad01-0055e9951bc2" />
 Job Questor – NLP-Based Job Recommendation System
  1.Overview
 Job Questor is an NLP-based web application that analyzes a user's resume and recommends relevant job opportunities based on their skills and qualifications. The system helps users identify suitable career opportunities by processing resume content using Natural Language Processing (NLP) techniques.
